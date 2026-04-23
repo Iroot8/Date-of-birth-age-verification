@@ -36,4 +36,4 @@
 # Use Case Диаграмма
 ![Use Case](UseCase.png)
 # Запуск программы
-![Phyton](Date-of-birth-age-verification.py)
+![Phyton](date_o_birth_age_verification.py)
