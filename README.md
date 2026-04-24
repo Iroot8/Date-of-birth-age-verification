@@ -32,8 +32,8 @@
 
 Программа предназначена для проверки возраста пользователя по дате рождения.
 # Use Case Диаграмма
-![Блок схемы программы](Block_diagram_of_the_program.png)
-# Блок схема программы
 ![Use Case](UseCase.png)
+# Блок схема программы
+![Use Case](UseCase.png)![Блок схемы программы](Block_diagram_of_the_program.png)
 # Запуск программы
 ![Phyton](Programm/date_o_birth_age_verification.py)
