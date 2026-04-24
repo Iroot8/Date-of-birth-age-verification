@@ -34,6 +34,6 @@
 # Use Case Диаграмма
 ![Use Case](UseCase.png)
 # Блок схема программы
-![Use Case](UseCase.png)![Блок схемы программы](Block_diagram_of_the_program.png)
+![Блок схемы программы](Block_diagram_of_the_program.png)
 # Запуск программы
 ![Phyton](Programm/date_o_birth_age_verification.py)
